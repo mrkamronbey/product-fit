@@ -1,0 +1,27 @@
+.style_team_slider_wrap__wYYLK
+  > .ant-carousel
+  > .slick-slider
+  > .slick-list
+  .slick-track
+  > .slick-slide
+  > div
+  > div {
+  padding: 0 0 50px 0 !important;
+}
+
+.ant-modal-content {
+  background: #1e959b !important;
+  color: #fff;
+  border-radius: 20px !important;
+}
+
+.ant-modal-close-x {
+  color: #1e959b;
+  font-weight: bold;
+}
+
+.anticon-close {
+  background: #fff;
+  border-radius: 50%;
+  padding: 5px;
+}

@@ -1,0 +1,133 @@
+.footer {
+  padding: 50px 0 0 0;
+  background-color: #fff;
+}
+
+.footer_navlink {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-decoration: none;
+  color: #1e959b;
+  margin-bottom: 20px;
+}
+
+.footer_logo_link {
+  margin-top: 30px;
+}
+
+.footer_navlink:hover {
+  font-weight: 600;
+}
+.footer_col > p {
+  margin-top: 0;
+}
+
+.footer_col > img{
+  width: 239px;
+  height: 58px;
+}
+
+.footer_col > h4 {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #1e959b;
+  margin-top: 0;
+}
+
+.footer_col:nth-child(2) > p > a {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: none;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #1e959b;
+}
+
+.footer_col:nth-child(2) > p > a:hover {
+  font-weight: bold;
+}
+
+.footer_col:nth-child(2) > p > a > i {
+  font-size: 30px;
+  margin-right: 20px;
+}
+
+.footer_col > i {
+  font-size: 30px;
+  color: #1e959b;
+}
+
+.footer_col > ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 0;
+}
+
+.footer_col > ul > li {
+  margin-bottom: 10px;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.footer_mini {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0 15px 0;
+}
+
+.footer_mini > p {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: rgba(60, 60, 60, 0.5);
+}
+
+.footer_mini > p > a {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: #f05670;
+}
+
+@media only screen and (max-width: 1278px) {
+  .footer {
+    padding: 50px 20px 0 20px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .footer_col {
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .footer_col {
+    margin-bottom: 30px;
+  }
+  .footer_col > img{
+    width: 100px;
+    height: 58px;
+  }
+}

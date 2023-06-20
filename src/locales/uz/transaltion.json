@@ -1,0 +1,72 @@
+{
+  "Header": {
+    "0": "LOYIHANI BOSHLANG"
+  },
+
+  "Hero": {
+    "0": "IT mahsulotlarini ishlab chiqish",
+    "1": "biz loyihani noldan ishlab chiqamiz, joriy loyihani yakunlaymiz yoki ot-jamoangizni bozordagi eng yaxshi ishlab chiquvchilar bilan kuchaytiramiz",
+    "2": "YANGI LOYIHANI BOSHLASH"
+  },
+  "Cards": {
+    "0": "Bepul maslahat",
+    "1": "Uskunalar",
+    "2": "Jamoaviy ish",
+    "3": "Ishonchlilik",
+    "4": "Samaradorlikni oshirish",
+    "5": "Axborot texnologiyalari sohasidagi sifatli echimlar",
+    "6": "Biz kompyuter ulgurji savdosi, periferik kompyuter uskunalari va dasturiy ta'minotiga ixtisoslashgan kompaniyamiz. Biz etakchi ishlab chiqaruvchilarning yuqori sifatli mahsulotlarining keng assortimentini taklif etamiz.",
+    "7": "Suhbatga yozilish",
+    "8":"Sertifikat"
+  },
+
+  "Team": {
+    "0": "ITFOR jamoasi loyihalari",
+    "1": "Dasturiy ta'minotni ishlab chiqish va yangilash",
+    "2": "Bizning kompaniyamiz sizning ehtiyojlaringizga moslashtirilgan dasturiy ta'minotni ishlab chiqish xizmatlarini taklif etadi...",
+    "3": "Biz jarayonlarni avtomatlashtiradigan, ish samaradorligini oshiradigan va biznesingiz samaradorligini oshiradigan moslashtirilgan echimlarni yaratamiz. Bundan tashqari, biz uni optimallashtirish va zamonaviy talablarga javob berish uchun mavjud dasturiy ta'minotni yangilash va yangilashni taklif qilamiz.",
+    "4": "Kompyuter infratuzilmasini o'rnatish va sozlash",
+    "5": "Biz sizning biznesingiz uchun kompyuter infratuzilmasini o'rnatish va sozlash xizmatlarini taqdim etamiz...",
+    "6": "Bizning mutaxassislar jamoasi sizga kompyuterlar, serverlar, tarmoq uskunalari va boshqa komponentlarni ulash va sozlashda yordam beradi. Biz sizning infratuzilmangizning to'g'ri ishlashini ta'minlaymiz, bu sizning kompyuter muhitingizning barqarorligi va xavfsizligini ta'minlaydi.",
+    "7": "Bulutli echimlar va xosting",
+    "8": "Biz sizning biznesingiz uchun bulutli echimlarni sozlash va ulardan foydalanish xizmatlarini taklif etamiz...",
+    "9": "Biz sizga ma'lumotlarni saqlash, ilovalarni ishga tushirish va yuqori darajadagi mavjudlik va xavfsizlikni ta'minlash imkonini beruvchi mos bulutli platformalarni tanlash va sozlashda yordam beramiz. Bundan tashqari, biz sizning veb-saytingiz va ilovalaringizni serverlarimizga ishonchli joylashtirishni ta'minlaydigan xosting xizmatlarini taklif etamiz",
+    "10": "Texnik yordam va maslahat",
+    "11": "Bizning kompaniyamiz sizning kompyuter uskunangiz va dasturiy ta'minotingiz uchun texnik yordamni taklif qiladi...",
+    "12": "Biz texnik muammolarni hal qilish, tizimlarni sozlash, nosozliklarni bartaraf etish va ma'lumotlar xavfsizligini ta'minlash bo'yicha maslahatlar beramiz. Bizning jamoamiz sizning texnik savollaringiz va muammolaringiz uchun tezkor va professional echimlarni taqdim etish orqali istalgan vaqtda sizga yordam berishga tayyor.",
+    "13": "Axborot xavfsizligi va antivirus echimlari",
+    "14": "Biz axborot xavfsizligi va zararli dasturlardan himoya qilish xizmatlarini taklif etamiz...",
+    "15": "Biz sizga tegishli antivirus dasturlari va tizimlarini tanlash va sozlashda yordam beramiz, bu sizning kompyuter muhitingizni tahdid va hujumlardan himoya qiladi.Bundan tashqari, biz potentsial zaifliklarni aniqlash va ularni bartaraf etish uchun echimlarni taklif qilish uchun xavfsizlik auditini o'tkazamiz.",
+    "16": "Ma'lumotlarni tiklash va zaxiralash",
+    "17": "Biz ma'lumotlar yo'qolgan yoki buzilgan taqdirda tiklash xizmatlarini taklif qilamiz...",
+    "18": "Bizning mutaxassislar jamoasi qimmatli ma'lumotlarni qayta tiklash uchun zamonaviy texnika va vositalardan foydalanadi.Shuningdek, biz ma'lumotlarning yo'qolishini oldini olish va ularning xavfsizligini ta'minlash uchun zaxira tizimlarini tavsiya qilamiz va sozlaymiz."
+  },
+  "Banner": {
+    "0": "Bizning maqsadimiz mijozlarimizga ishonchli va innovatsion axborot texnologiyalari echimlarini taqdim etishdir. Biz mijozlarimizga eng zamonaviy va samarali mahsulot va xizmatlarni taklif qilish orqali ularning ehtiyojlarini qondirishga intilamiz."
+  },
+  "CardOrder": {
+    "0": "Kompyuterlar",
+    "1": "Monitorlar",
+    "2": "Printerlar va skanerlar",
+    "3": "Serverlar va tarmoq uskunalari",
+    "4": "Ma'lumotlarni saqlash",
+    "5": "Dasturiy ta'minot",
+    "6": "Aksessuarlar va butlovchi qismlar",
+    "7": "Texnik yordam",
+    "8": "BUYURTMA",
+    "9": "SO'ROV QOLDIRING"
+  },
+  "Footer": {
+    "0": "Мобильные приложения",
+    "1": "Главная страница",
+    "2": "Связаться с нами",
+    "3": "O'zbekiston Republikasi fukorosi: Babaeva Kamila Baxromova, passport series: AA 5738281 Toshkent shahar Mirzo Ulugbek Tumani IIB Tomonidan 11.06.2014 yil berilgan, turar joyi: - Uzbekiston Republicasi, Toshkent shahri, Mirzo Ulugbek Tumani, Mirzo Ulugbek kuchasi, 87-y, 28-honadon. (JShShIR: 41202820360013),(keyinchalik - 'Ishtirokchi'), Zhamiyatning yagona ta'sisichi hisoblanadi."
+  },
+  "Form": {
+    "0": "Maslahat uchun so'rov qoldiring!",
+    "1": "kompaniya",
+    "2": "To'liq ism",
+    "3": "Telefon raqami",
+    "4": "Yuborish"
+  }
+}

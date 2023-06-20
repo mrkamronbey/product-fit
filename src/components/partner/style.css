@@ -1,0 +1,17 @@
+.slick-slide, .slick-track {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important; 
+}
+
+.slick-slide > div{
+    height: 100% !important;
+}
+
+.slick-slide > div > div > img{
+    width: 100% !important;
+}
+
+.slider_boxs > .slick-slider > .slick-arrow{
+    display: none !important; 
+}

@@ -1,0 +1,173 @@
+.ant-tabs-nav-list {
+  /* width: 100% !important; */
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
+.ant-tabs-tab {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.ant-tabs-nav .ant-tabs-tab-active {
+  background-color: transparent !important;
+}
+
+.card_item {
+  width: 245px;
+  background: linear-gradient(180deg, #ffffff 0%, #f7f9fd 100%);
+  box-shadow: 0px 4px 4px rgba(30, 149, 155, 0.5);
+  border-radius: 25px !important;
+  padding: 10px;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  flex-direction: column !important;
+  cursor: pointer;
+}
+
+.card_item > p {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.ant-tabs-nav .ant-tabs-tab-active .ant-tabs-tab-btn > .card_item {
+  background: linear-gradient(180deg, #ffffff 0%, #f7f9fd 100%);
+  box-shadow: inset 0px 4px 4px rgba(30, 149, 155, 0.5);
+  border-radius: 25px;
+}
+
+.ant-tabs-nav .ant-tabs-tab-active .ant-tabs-tab-btn > .card_item > p {
+  font-weight: bold;
+  color: #1e959b;
+}
+
+.ant-tabs-top > .ant-tabs-nav::before {
+  content: "";
+  border: none !important;
+}
+
+.tabs_content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.tabs_img,
+.tabs_text {
+  width: 45%;
+}
+
+.tabs_img > img {
+  width: 100%;
+  height: 100%;
+}
+.tabs_img > button {
+  display: none;
+}
+.tabs_text > h4 {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: #1e959b;
+}
+
+.tabs_text > p {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #3c3c3c;
+  margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 910px) {
+  .tabs_content {
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  .tabs_img,
+  .tabs_text {
+    width: 100%;
+  }
+  .tabs_text > h4 {
+    font-size: 28px;
+    text-align: center;
+  }
+  .tabs_text > p {
+    text-align: center;
+  }
+  .tabs_text,
+  .tabs_img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .tabs_img > img {
+    margin-top: 30px;
+    width: 606px;
+  }
+  .tabs_img > button {
+    display: flex;
+    margin-top: 20px;
+  }
+  .tabs_text > button {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 625px) {
+  .tabs_img > img {
+    margin-top: 30px;
+    width: 406px;
+  }
+  .tabs_text > h4 {
+    font-size: 24px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .tabs_img > img {
+    margin-top: 30px;
+    width: 306px;
+  }
+  .tabs_text > h4 {
+    font-size: 22px;
+  }
+
+  .ant-tabs-tab {
+    width: 100% !important;
+  }
+
+  /* .card_item{
+    width: 100%;
+  } */
+}
+
+@media only screen and (max-width: 375px) {
+  .tabs_text > h4 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+@media only screen and (max-width: 327px) {
+  .tabs_img > button {
+    padding: 10px 20px;
+  }
+  .tabs_text > h4 {
+    font-size: 16px;
+  }
+}

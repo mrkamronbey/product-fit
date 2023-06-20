@@ -1,0 +1,50 @@
+.cards_section {
+  padding: 70px 0;
+}
+
+.card_wrapp {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tabs_btn,
+.tabs_btns {
+  background: #f05670;
+  border-radius: 15px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ffffff;
+  padding: 15px 30px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  border: 3px solid transparent;
+  transition: 0.3s;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.tabs_btns{
+  display: none;
+}
+
+
+
+.tabs_btn:hover,
+.tabs_btns:hover {
+  background: transparent;
+  border: 3px solid #f05670;
+  color: #f05670;
+}
+
+@media only screen and (max-width: 910px) {
+  .tabs_btn{
+    display: none;
+  }
+  .tabs_btns{
+    display: flex;
+  }
+}
