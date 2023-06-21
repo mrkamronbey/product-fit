@@ -166,9 +166,6 @@
 
 @media only screen and (max-width: 375px) {
   .header_menu {
-    /* position: absolute;
-    bottom: -51px;
-    right: -21px; */
     border-radius: 15px;
     margin-right: 0;
   }

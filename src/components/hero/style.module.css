@@ -99,7 +99,6 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-
   }
   .hero_wrapp > p {
     padding: 0 200px;
@@ -140,10 +139,60 @@
   }
 }
 
+@media only screen and (max-width: 425px) {
+  .hero_section {
+    background-size: 500px;
+    background-position: bottom -150px center;
+    background-position-x: -80px;
+  }
+
+  .hero_wrapp > h2 {
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 412px) {
+  .hero_section {
+    background-size: 500px;
+    background-position: bottom 70px center;
+    background-position-x: -90px;
+  }
+
+  .hero_wrapp > h2 {
+    margin-top: 100px;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  .hero_section {
+    background-size: 500px;
+    background-position: bottom 70px center;
+    background-position-x: -100px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .hero_section {
+    background-size: 450px;
+    background-position: bottom -100px center;
+    background-position-x: -80px;
+  }
+
+  .hero_wrapp > h2 {
+    margin-top: 50px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+}
+
 @media only screen and (max-width: 325px) {
   .hero_section {
     background-size: 450px;
     background-position: bottom -100px center;
     background-position-x: -80px;
+  }
+
+  .hero_wrapp > h2 {
+    font-size: 24px;
   }
 }
